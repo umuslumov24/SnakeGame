@@ -1,9 +1,9 @@
-🐍 **Traditional Snake Game (Python Turtle)**
+# 🐍 **Traditional Snake Game (Python Turtle)**
 
 A simple and classic Snake Game built using Python’s turtle module.
 This project includes features such as movement control, collision detection, food generation, score tracking, and a persistent high score system.<br><br>
 
-⚙️ **Features**
+## ⚙️ **Features**
 
 Smooth snake movement
 
@@ -19,7 +19,7 @@ Persistent High Score saved in a text file
 
 Clean,simple and structured OOP design (Snake, Food, Scoreboard)<br><br>
 
-📂 **Project Structure**
+## 📂 **Project Structure**
 
 
 ├── main.py
@@ -54,7 +54,7 @@ Scoreboard class: tracks current score, saves high score.
 
 Stores the highest score across game sessions.<br><br>
 
-▶️ **How to Run** 
+## ▶️ **How to Run** 
 
 1. Make sure you have Python 3 installed.
 
@@ -67,7 +67,7 @@ cd your-repo-name
 4. Run the game:
 python main.py<br><br>
 
-⌨️ **Controls**
+## ⌨️ **Controls**
 
 ↑	Move Up
 
@@ -79,7 +79,7 @@ python main.py<br><br>
 
 Snake cannot directly turn backward.<br><br>
 
-🏆 **High Score System**
+## 🏆 **High Score System**
 
 High score is stored in Highest_Score.txt
 
@@ -87,7 +87,7 @@ The file is automatically created if it does not exist
 
 When the snake hits a wall or itself, the game resets but the high score persists<br><br>
 
-📈 **Future Improvements**
+## 📈 **Future Improvements**
 
 Add sound effects
 
@@ -95,6 +95,6 @@ Add a game-over animation
 
 Add custom skins or colors<br><br>
 
-📜 **License**
+## 📜 **License**
 
 This project is open-source. Feel free to modify and improve it!
